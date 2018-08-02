@@ -1,0 +1,11 @@
+/*
+-- Query: SELECT * FROM energypower.orders
+LIMIT 0, 1000
+
+-- Date: 2018-07-14 18:23
+*/
+INSERT INTO `orders` (`order_id`,`name_order`,`employee_manager_id`,`adress`,`description`,`max_hour`) VALUES (1,'УТUT-000098',7,'Новий район 1, ТОВ','дом № 2  ЯКОРЯ ',150);
+INSERT INTO `orders` (`order_id`,`name_order`,`employee_manager_id`,`adress`,`description`,`max_hour`) VALUES (2,'106',7,'Гарантія успіху, ЖБТ','ВНУТРЯНКА ЖК Уютний',70);
+INSERT INTO `orders` (`order_id`,`name_order`,`employee_manager_id`,`adress`,`description`,`max_hour`) VALUES (3,'УТUT-000183',11,'АГРОКОМ, ТОВ','Аварійне обслуговування  ',147);
+INSERT INTO `orders` (`order_id`,`name_order`,`employee_manager_id`,`adress`,`description`,`max_hour`) VALUES (4,'УТUT-000198',11,'КВАРТАЛБУД-3','Аренда УКРМ',84);
+INSERT INTO `orders` (`order_id`,`name_order`,`employee_manager_id`,`adress`,`description`,`max_hour`) VALUES (5,'УТUT-000200',11,'ОМЕГА-1, ППФ','Консультаційні  послуги',119);

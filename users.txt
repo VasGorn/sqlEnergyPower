@@ -1,0 +1,12 @@
+/*
+-- Query: SELECT * FROM energypower.users
+LIMIT 0, 1000
+
+-- Date: 2018-07-14 18:15
+*/
+INSERT INTO `users` (`users_id`,`employee_employee_id`,`user_name`,`password`) VALUES (2,7,'кузнецов','1111');
+INSERT INTO `users` (`users_id`,`employee_employee_id`,`user_name`,`password`) VALUES (3,8,'milchev','1111');
+INSERT INTO `users` (`users_id`,`employee_employee_id`,`user_name`,`password`) VALUES (4,9,'косяков','1111');
+INSERT INTO `users` (`users_id`,`employee_employee_id`,`user_name`,`password`) VALUES (5,10,'тимошин','1111');
+INSERT INTO `users` (`users_id`,`employee_employee_id`,`user_name`,`password`) VALUES (6,11,'бадигон','1111');
+INSERT INTO `users` (`users_id`,`employee_employee_id`,`user_name`,`password`) VALUES (7,12,'хлюстов','1111');

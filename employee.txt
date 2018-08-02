@@ -1,0 +1,28 @@
+/*
+-- Query: SELECT * FROM energypower.employee
+LIMIT 0, 1000
+
+-- Date: 2018-07-14 18:06
+*/
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (7,'Валентин','Кузнєцов','Олександрович','2018-07-08 18:24:25','2018-07-08 18:24:25');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (8,'Анатолій','Мільчев','Іванович','2018-07-08 18:24:25','2018-07-08 18:24:25');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (9,'Максим','Косяков','Сергійович','2018-07-08 18:24:25','2018-07-08 18:24:25');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (10,'Олександр','Тимошин','Миколайович','2018-07-08 18:24:25','2018-07-08 18:24:25');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (11,'Сергій','Бадігон','Станіславович','2018-07-08 18:24:25','2018-07-08 18:24:25');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (12,'Дмитро','Хлюстов','Олегович','2018-07-08 18:33:21','2018-07-08 18:33:21');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (13,'Олексадр','Акімов','Олександрович','2018-07-08 18:37:22','2018-07-08 18:37:22');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (14,'Володимир','Бодачевський','Виталійович','2018-07-08 18:37:22','2018-07-08 18:37:22');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (15,'Віталій','Вуйван','Михайлович','2018-07-08 18:37:22','2018-07-08 18:37:22');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (16,'Денис','Гордєєв','Олександрович','2018-07-08 18:40:51','2018-07-08 18:40:51');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (17,'Денис','Дранченко','Віталійович','2018-07-08 18:40:51','2018-07-08 18:40:51');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (18,'Дмитро','Клейн','Олександрович','2018-07-08 18:40:51','2018-07-08 18:40:51');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (19,'Денис','Марченко','Сергійович','2018-07-08 18:40:51','2018-07-08 18:40:51');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (20,'Сергій','Мельниченко','Анатолійович','2018-07-08 18:40:51','2018-07-08 18:40:51');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (21,'Володимир','Міноцький','Сергійович','2018-07-08 18:40:51','2018-07-08 18:40:51');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (22,'Володимир','Полянський','Васильович','2018-07-08 18:40:51','2018-07-08 18:40:51');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (23,'Богдан','Рудий','Русланович','2018-07-08 18:40:51','2018-07-08 18:40:51');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (24,'Сергій','Сабакаров','Миколайович','2018-07-08 18:40:51','2018-07-08 18:40:51');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (25,'Вадим','Ткач','Володимирович','2018-07-08 18:40:51','2018-07-08 18:40:51');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (26,'Олександр','Шаповалов','Іванович','2018-07-08 18:40:51','2018-07-08 18:40:51');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (27,'Олександр','Шинкаренко','Васильович','2018-07-08 18:40:51','2018-07-08 18:40:51');
+INSERT INTO `employee` (`employee_id`,`firstname`,`lastname`,`middlename`,`data_modified`,`data_created`) VALUES (28,'Євген','Яроха','Сергійович','2018-07-08 18:40:51','2018-07-08 18:40:51');

@@ -1,0 +1,9 @@
+/*
+-- Query: SELECT * FROM energypower.position_table
+LIMIT 0, 1000
+
+-- Date: 2018-07-14 18:22
+*/
+INSERT INTO `position_table` (`position_id`,`position_name`) VALUES (2,'Инженер');
+INSERT INTO `position_table` (`position_id`,`position_name`) VALUES (3,'Мастер');
+INSERT INTO `position_table` (`position_id`,`position_name`) VALUES (1,'Менеджер');

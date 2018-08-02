@@ -1,0 +1,10 @@
+/*
+-- Query: SELECT * FROM energypower.work_type
+LIMIT 0, 1000
+
+-- Date: 2018-07-14 18:25
+*/
+INSERT INTO `work_type` (`type_id`,`type_name`) VALUES (1,'Монтаж щита');
+INSERT INTO `work_type` (`type_id`,`type_name`) VALUES (4,'Прокладка кабеля');
+INSERT INTO `work_type` (`type_id`,`type_name`) VALUES (3,'Пусконаладка');
+INSERT INTO `work_type` (`type_id`,`type_name`) VALUES (2,'Сварочные работы');

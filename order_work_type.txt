@@ -1,0 +1,9 @@
+/*
+-- Query: SELECT * FROM energypower.order_has_work_type
+LIMIT 0, 1000
+
+-- Date: 2018-07-14 18:26
+*/
+INSERT INTO `order_has_work_type` (`order_order_id`,`work_type_type_id`) VALUES (3,1);
+INSERT INTO `order_has_work_type` (`order_order_id`,`work_type_type_id`) VALUES (3,2);
+INSERT INTO `order_has_work_type` (`order_order_id`,`work_type_type_id`) VALUES (3,3);
